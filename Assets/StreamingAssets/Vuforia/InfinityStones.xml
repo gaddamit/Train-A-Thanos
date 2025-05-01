@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="soulstone" size="512.000000 512.000000" />
+    <ImageTarget name="timestone" size="512.000000 512.000000" />
+    <ImageTarget name="mindstone" size="512.000000 512.000000" />
+    <ImageTarget name="realitystone" size="512.000000 512.000000" />
+    <ImageTarget name="powerstone" size="512.000000 512.000000" />
+    <ImageTarget name="spacestone" size="512.000000 512.000000" />
+  </Tracking>
+</QCARConfig>
