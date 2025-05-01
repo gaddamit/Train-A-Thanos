@@ -1,5 +1,5 @@
 # Train-A-Thanos
-
+[![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=for-the-badge&logo=unity)](https://unity3d.com)
 ## A Scavenger Hunt Game using AR
 
 You are young Thanos in training, aiming to collect all the Infinity Stones.  
